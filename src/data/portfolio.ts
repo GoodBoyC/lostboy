@@ -3,7 +3,7 @@ export const profile = {
   xUrl: 'https://x.com/yrnlost?s=11',
   telegramUrl: 'https://t.me/Lostboyonchain',
   // Add your own portrait at public/images/avatar.jpg to replace the star.
-  avatar: '/images/avatar.jpg',
+  avatar: '/images/avatar.jpeg',
   description:
     'I help KOLs and Web3 projects grow their communities, onboard active users, and build visibility.',
   // Add the owner's verified contact address to enable the email handoff.
