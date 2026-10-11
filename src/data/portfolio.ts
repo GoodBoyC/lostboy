@@ -66,7 +66,7 @@ export const impactStats = [
   { id: 'campaigns', label: 'Campaigns\nshipped', value: '100' },
 ];
 
-export const proofScreenshots = Array.from({ length: 6 }, (_, index) => {
+export const proofScreenshots = Array.from({ length: 100 }, (_, index) => {
   const number = String(index + 1).padStart(2, '0');
   return {
     id: `proof-${number}`,
